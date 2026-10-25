@@ -85,3 +85,7 @@ Open either notebook in Jupyter or VS Code, keep `netflix_titles.csv` in the sam
 - Movies are measured in minutes and TV Shows in seasons (no episode counts), so their durations cannot be compared directly.
 - ~30% of rows are missing `director` and ~9% are missing `country` (filled with "Unknown"), which may slightly skew those rankings.
 - No viewership data, so the recommendations still need to be checked against audience performance.
+
+## Author
+
+Nguyễn Thùy An · [GitHub](https://github.com/annguyen68-crypto)
