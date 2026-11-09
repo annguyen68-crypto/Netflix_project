@@ -4,6 +4,8 @@ Data cleaning and exploratory data analysis (EDA) of 8,800+ Netflix titles to un
 
 **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, WordCloud) · Jupyter Notebook
 
+**Project report (PDF):** [Netflix_Content_Analysis_Report.pdf](Netflix_Content_Analysis_Report.pdf), a short summary of the data, approach, findings and recommendations.
+
 ## Key findings
 
 **1. The catalog was built almost entirely from 2016 onwards.** 2016–2021 accounts for 98.4% of all titles, peaking at 2,016 titles in 2019. The 2021 drop is a data artefact: data stops in September, and the monthly pace (~166 titles/month) was close to the 2019 peak (168).
